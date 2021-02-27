@@ -1,7 +1,9 @@
-# Testando o git
+# TÍtulo Aqui
 
-Testado
+Comentários relevantes
 
-Veja mais em [QAPLA](http://www.qapla.com.br)
+Para criar um link para algum lugar [QAPLA](http://www.qapla.com.br)
+No exemplo acima o que você não viu foi que se coloca o texto do hiperlink
+entre colchetes e  URL destino entre parenteses.
 
-To gostando do curso, quando quem explica sabe como explicar fica inteligível
+Estou gostando do curso, quando quem explica conhece o riscado e sabe como explicar fica inteligível!
